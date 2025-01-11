@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Dhairya Patel | CSE Enthusiast<br>👨‍🎓 4th Year CSE Student<br>🚀 Passionate about coding, problem-solving, and building cool stuff.<br>🌐 Into Web Development, Data Structures & Algorithms, and trying out new tech.<br>📚 Always learning and leveling up my skills.<br>🌱 Currently digging into [specific tech you're learning, e.g., React, Python, etc.].<br>🛠️ Check out my repos for some fun projects. Let's connect and build something awesome!<br>🎸 Fun Fact: When I’m not coding, I’m probably googling how to fix the code I just broke—or bingeing memes about it.
+💻 Dhairya Patel | CSE Enthusiast<br>👨‍🎓 2nd Year CSE Student<br>🚀 Passionate about coding, problem-solving, and building cool stuff.<br>🌐 Into Web Development, Data Structures & Algorithms, and trying out new tech.<br>📚 Always learning and leveling up my skills.<br>🌱 Currently digging into [specific tech you're learning, e.g., React, Python, etc.].<br>🛠️ Check out my repos for some fun projects. Let's connect and build something awesome!<br>🎸 Fun Fact: When I’m not coding, I’m probably googling how to fix the code I just broke—or bingeing memes about it.
 
 
 ## 🌐 Socials:
